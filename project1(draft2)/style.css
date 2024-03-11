@@ -1,0 +1,219 @@
+
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+section.container{
+    position:relative;
+    width:100%;
+    height:80%;
+    
+
+}
+
+img.tourism{
+    width:100%;
+    margin:0%;
+    
+} 
+
+h2.h2container{
+    position: absolute;
+    top:15%;
+    left:20%;
+    padding:1em;
+    color:aliceblue;
+    background-color: rgb(0,164,239,0.4);
+    box-shadow: 2px 2px 5px white;
+    padding-left:175px;
+    font-size:3em;
+    display:inline-block;
+    width:62%;
+    border-radius: 50px;
+    
+}
+div.intro_info{
+    position:absolute;
+    top:33%;
+    right:46%;
+    background-color: darkblue;
+    color: white;
+    display:inline;
+    padding:.5em;
+    width:10%;
+    color:aliceblue;
+    text-align: center;
+    margin:5px -50px;
+}
+
+h4{
+    font-size: 1.5em;
+    padding-top:30px;
+}
+.expinfo{
+    padding-top:20px;
+    padding-right:10em;
+    font-size: 1em;
+}
+div.carinfo{
+    position:absolute;
+    top:70%;
+    color:white;
+    padding-left:10em;
+    text-align: justify;
+    background-color: rgb(0,0,0,.7);
+    margin-bottom: 0;
+    height:345px;
+}
+a.info_link{
+    color:ble;
+}
+li.info_link{
+    margin-top:1em
+}
+section.infocontainer{
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    margin:5px;
+    margin-top:10em;
+}   
+div.infoleft, div.inforight{
+    width:40%;
+
+}
+img.turksncaicos{
+    width:100%;
+    height:100%;
+    display:block;
+}
+div.infoleft{
+    margin-left:-9%;
+    height:850px;
+    width:900px;
+}
+div.inforight{
+
+    margin-top:300px;
+    text-align:center;
+}
+h2.title{
+    text-align:center;
+    padding:.5em;
+}
+p{
+    margin-bottom: 3em;
+}
+a.link1{
+    background-color:orange;
+    border-radius:50px;
+    text-align:center;
+    padding:.5em;
+    margin-top: 5px;
+}
+
+
+
+div.infoleft2, div.inforight2{
+    width:40%;
+}
+div.inforight2{
+    width:900px;
+    height: 850px;
+    margin-right:-8%;
+    margin-top:-135px;
+
+}
+div.infoleft2{
+   text-align:center;
+   margin-top:8%;
+   margin-left:-3em;
+
+}
+a.link2{
+    background-color:orange;
+    border-radius:50px;
+    padding:.5em;
+   
+}
+
+
+div.infoleft3, div.inforight3{
+    width:40%;
+}
+img.turksncaicos3{
+    width:100%;
+    height:100%;
+    display:block;
+    border-radius:15px;
+}
+div.infoleft3{
+    width:600px;
+    height: 400px;
+    margin:10em;
+    border-radius:10%;
+}
+a.link3{
+    background-color:orange;
+    border-radius:50px;
+    text-align:center;
+    padding:.5em;
+    margin-top: 5px;
+}   
+  
+div.inforight3{
+    margin-left:900px;
+    margin-top:-400px;
+    text-align:center;
+}
+h2.title{
+    text-align:center;
+}
+p{
+    margin-bottom: 3em;
+}
+div.infoleft4, div.inforight4{
+    width:40%;
+}
+div.infoleft4{
+    margin-left:100px;
+    margin-top:300px;
+    text-align:center;
+
+}
+
+div.inforight4{
+    height: 400px;
+    margin-left:950px;
+    margin-top:-300px;
+    border-radius:10%;
+    width:600px;
+}
+
+hr{
+    margin-top:3em;
+}
+article{
+    padding-top:3em;
+}
+ul{
+    padding:3em;
+}
+footer{
+    margin-top:2em;
+    padding:2em;
+    background-color:rgb(0,0,0,.5);
+}
+.logo{
+    margin-top:1em;
+    height:70px;
+    width:70px;
+}
+ul.footerlist{
+    text-align:center;
+    margin-top: -150px;
+}
+a.idk{
+    display: block;
+}
